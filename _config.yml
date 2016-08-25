@@ -1,0 +1,14 @@
+layout_spectrum: 0.2631654771976173
+typography_spectrum: 0.769964357605204
+color:
+  brandStrength: 0.4240834144875407
+  lightness: 0.2347821828443557
+  saturation: 0.05093633756041527
+  rhythmicContrast: 0.40169658535160124
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Dave test
