@@ -12,5 +12,9 @@ color:
     - '#FF3800'
 layout_spectrum: 0.2631654771976173
 name: Dave test
+navigation:
+  - name: This is Dave’s test
+    id: 3d52c560-28a3-4e05-9a30-b2b4e59c6157
+    type: content
 title: Tea Time Express
 description: Great cakes we bake
