@@ -6,9 +6,9 @@ color:
   saturation: 0.05093633756041527
   rhythmicContrast: 0.40169658535160124
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
 name: Dave test
